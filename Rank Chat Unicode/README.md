@@ -23,7 +23,7 @@
 | Diamond |  | ![](https://github.com/MrMaxing/Add-Ons-Download/blob/main/Rank%20Chat%20Unicode/.Picture/Unicode_21.gif) |
 | Emerald |  | ![](https://github.com/MrMaxing/Add-Ons-Download/blob/main/Rank%20Chat%20Unicode/.Picture/Unicode_22.gif) |
 | Master |  | ![](https://github.com/MrMaxing/Add-Ons-Download/blob/main/Rank%20Chat%20Unicode/.Picture/Unicode_23.gif) |
-| Dctor |  | ![](https://github.com/MrMaxing/Add-Ons-Download/blob/main/Rank%20Chat%20Unicode/.Picture/Unicode_24.gif) |
+| Doctor |  | ![](https://github.com/MrMaxing/Add-Ons-Download/blob/main/Rank%20Chat%20Unicode/.Picture/Unicode_24.gif) |
 | Police |  | ![](https://github.com/MrMaxing/Add-Ons-Download/blob/main/Rank%20Chat%20Unicode/.Picture/Unicode_25.gif) |
 | Miner |  | ![](https://github.com/MrMaxing/Add-Ons-Download/blob/main/Rank%20Chat%20Unicode/.Picture/Unicode_26.gif) |
 | Farmer |  | ![](https://github.com/MrMaxing/Add-Ons-Download/blob/main/Rank%20Chat%20Unicode/.Picture/Unicode_27.gif) |

@@ -1,3 +1,5 @@
+> All Unicode 
+
 | Name | Unicode | In Game |
 |:-----------:|:------------:|:------------:|
 | Player |  | ![](https://github.com/MrMaxing/Work-Performance/blob/main/Rank%20Chat%20Unicode/.Picture/Unicode_03.gif) |
@@ -28,4 +30,3 @@
 | Angler |  | ![](https://github.com/MrMaxing/Work-Performance/blob/main/Rank%20Chat%20Unicode/.Picture/Unicode_28.gif) |
 | Bandit |  | ![](https://github.com/MrMaxing/Work-Performance/blob/main/Rank%20Chat%20Unicode/.Picture/Unicode_29.gif) |
 | Logger |  | ![](https://github.com/MrMaxing/Work-Performance/blob/main/Rank%20Chat%20Unicode/.Picture/Unicode_30.gif) |
-| All |  |

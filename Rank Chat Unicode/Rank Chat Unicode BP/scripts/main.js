@@ -1,4 +1,5 @@
 import * as mc from '@minecraft/server';
+mc.system.events.beforeWatchdogTerminate.subscribe((event) => event.cancel = true);
 mc.world.events.beforeChat.subscribe((event) => {
     const player = event.sender;
     const message = event.message;

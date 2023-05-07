@@ -4,8 +4,8 @@ This repository is used to store the data and files related to the README.md fil
 
 ## Contents
 
-- `README.md`: This file provides an overview of the repository and its contents.
-- `data/`: This folder contains the data files used to generate the content of the README.md file.
+- `./`: This file provides an overview of the repository and its contents.
+- `./`: This folder contains the data files used to generate the content of the README.md file.
 
 ## Usage
 
